@@ -1,2 +1,3 @@
 # IOT_final
-An automatic system witch take customers to their table in smart cofe (with ontology technique) 
+
+clone from org.eclipse.om2m
